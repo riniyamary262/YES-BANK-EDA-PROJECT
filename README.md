@@ -1,3 +1,7 @@
+# YES-BANK-
+EDA PROJECT - INTERNSHIP MINOR PROJECT
+
+
 This project conducts a comprehensive Exploratory Data Analysis (EDA) on Yes Bank's stock prices spanning from July 2005 to November 2020. The dataset comprises 185 monthly records with five key variables: Date, Open, High, Low, and Close prices. The primary objective is to uncover hidden patterns, trends, and relationships within the stock's historical performance to derive actionable business insights.
 
 The analysis reveals a fascinating journey of Yes Bank's stock. Starting at approximately ₹12 in 2005, the stock demonstrated steady growth over the years, reaching its all-time peak of ₹384 in August 2017. However, the most dramatic story unfolds post-2017 when the bank faced significant challenges, leading to a catastrophic crash. By July 2020, the stock plummeted to an alarming low of ₹11.95, nearly wiping out all the gains accumulated over 15 years.
